@@ -1,5 +1,8 @@
 #!/usr/bin/python3
-# 0-hello_route.py
+"""
+0-hello_route.py
+Module defining a simple Flask application.
+"""
 from flask import Flask
 app = Flask(__name__)
 
